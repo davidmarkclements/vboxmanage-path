@@ -1,6 +1,6 @@
 {
   "name": "vboxmanage-path",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Reliably determines the path of VBoxManage (or VboxManage for older versions on linux)",
   "main": "index.js",
   "scripts": {
