@@ -1,0 +1,23 @@
+{
+  "name": "vboxmanage-path",
+  "version": "1.0.0",
+  "description": "Reliably determines the path of VBoxManage (or VboxManage for older versions on linux)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Mark Clements",
+  "license": "MIT",
+  "dependencies": {
+    "which": "^1.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/vboxmanage-path.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmarkclements/vboxmanage-path/issues"
+  },
+  "homepage": "https://github.com/davidmarkclements/vboxmanage-path#readme"
+}
