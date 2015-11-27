@@ -1,10 +1,10 @@
 {
   "name": "vboxmanage-path",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Reliably determines the path of VBoxManage (or VboxManage for older versions on linux)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postinstall": "node postinstall.js"
   },
   "author": "David Mark Clements",
   "license": "MIT",
